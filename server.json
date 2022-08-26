@@ -1,0 +1,60 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2022-08-26T16:23:07.227Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 40,
+      "createdAt": "2022-08-26T16:23:07.227Z"
+    },
+    {
+      "description": "estou apaixonado, oq faço?",
+      "category": "amor",
+      "type": "income",
+      "price": 824632,
+      "createdAt": "2022-08-26T18:28:40.164Z",
+      "id": 3
+    },
+    {
+      "description": "o amor é foda",
+      "category": "amor",
+      "type": "outcome",
+      "price": 12134314,
+      "createdAt": "2022-08-26T18:31:56.238Z",
+      "id": 4
+    },
+    {
+      "description": "como fazer pra ela me amar?",
+      "category": "amor",
+      "type": "income",
+      "price": 94832,
+      "createdAt": "2022-08-26T18:36:13.878Z",
+      "id": 5
+    },
+    {
+      "description": "comprar um macbook",
+      "category": "eletronicos",
+      "type": "outcome",
+      "price": 5700,
+      "createdAt": "2022-08-26T18:46:42.609Z",
+      "id": 6
+    },
+    {
+      "description": "ta funcionando?",
+      "category": "app",
+      "type": "income",
+      "price": 1213,
+      "createdAt": "2022-08-26T18:51:01.814Z",
+      "id": 7
+    }
+  ]
+}
